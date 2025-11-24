@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Software Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Princípios SOLID explicados com use cases"
             },
             "group": "1c1220edea4c80dd"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Software Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Princípios SOLID explicados com use cases"
             },
             "group": "1c1220edea4c80dd"
           }
@@ -219,8 +219,8 @@
   },
   "active": "c956cd3b2abaf4cb",
   "lastOpenFiles": [
-    "Software Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "README.md",
+    "Software Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.dart.ts",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.ts",
