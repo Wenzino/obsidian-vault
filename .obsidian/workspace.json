@@ -6,7 +6,7 @@
       {
         "id": "cff2aaaa12c57b8f",
         "type": "tabs",
-        "dimension": 46.774193548387096,
+        "dimension": 51.812366737739865,
         "children": [
           {
             "id": "c956cd3b2abaf4cb",
@@ -14,32 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
+                "file": "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/Use case completo - Sistema de Pagamentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Open-Closed Principle (OCP)"
-            },
-            "group": "1c1220edea4c80dd"
+              "title": "Use case completo - Sistema de Pagamentos"
+            }
           }
         ]
       },
       {
-        "id": "f512175d87c0a022",
+        "id": "f802a42aa997ce43",
         "type": "tabs",
-        "dimension": 53.2258064516129,
+        "dimension": 48.18763326226013,
         "children": [
           {
-            "id": "862d9ef65caa3ebb",
+            "id": "7b923dcae01ba56b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            },
-            "group": "1c1220edea4c80dd"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -98,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.50328826904297
+    "width": 287.50328826904297,
+    "collapsed": true
   },
   "right": {
     "id": "883c48f926863be8",
@@ -213,15 +212,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c956cd3b2abaf4cb",
+  "active": "7b923dcae01ba56b",
   "lastOpenFiles": [
-    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/03 Liskov Substitution Principle (LSP).md",
-    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
+    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/Use case completo - Sistema de Pagamentos.md",
+    "solid-illustration.png",
+    "Software_Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/04 Interface Segregation Principle (ISP).md",
     "Software_Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
-    "Software_Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
-    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "README.md",
+    "Welcome.md",
+    "Pasted image 20251127003406.png",
+    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
+    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/01 Single Responsibility Principle (SRP).md",
+    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/03 Liskov Substitution Principle (LSP).md",
+    "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.dart.ts",
@@ -241,7 +245,6 @@
     "Solid",
     "Software Engineering",
     "Untitled.md",
-    "Welcome.md",
     "create a link.md",
     "Untitled.canvas",
     "Untitled 1.base"

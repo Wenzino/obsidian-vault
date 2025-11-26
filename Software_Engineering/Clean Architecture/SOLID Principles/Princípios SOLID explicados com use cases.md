@@ -1,3 +1,5 @@
+![[solid-illustration.png]]
+
 Os princípios SOLID nos dizem como organizar as funções e estruturas de dados em classes e como essas classes devem ser interconectadas. O uso da palavra "classe" não implica que esses princípios sejam aplicáveis apenas a software orientados a objetos. Uma classe é apenas um agrupamento acoplado de funções e dados. Cada sistema de software tem agrupamentos como esses, chamados ou não de classes. Os princípios SOLID se aplicam a esses agrupamentos.
 
 SOLID é um acrónimo de 5 princípios que tornam software mais:
