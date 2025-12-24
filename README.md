@@ -1,6 +1,6 @@
 # Obsidian Vault - Engenharia de Software
 
-Repositório de notas e referências sobre Engenharia de Software, com foco em boas práticas, padrões de design e arquitetura limpa.
+Repositório de notas e referências sobre Engenharia de Software, com foco em boas práticas, principios e padrões de design (arquitetura e design de software)
 
 ## Estrutura do Repositório
 
