@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a83418675837d7f3",
+        "id": "8f603002d142f738",
         "type": "tabs",
         "children": [
           {
-            "id": "c00288793bb07a60",
+            "id": "b861ca983b515707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 273.5
   },
   "right": {
     "id": "883c48f926863be8",
@@ -193,13 +193,21 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c00288793bb07a60",
+  "active": "b861ca983b515707",
   "lastOpenFiles": [
-    "Software_Engineering/Clean Architecture/Architecture/clean-architecture-illustration.jpg",
-    "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
-    "Untitled.md",
-    "Software_Engineering/Clean Architecture/Architecture",
     "Software_Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
+    "Software_Engineering/Clean Architecture/Architecture/clean-architecture-illustration.jpg",
+    "Projects/Mindglow/Feature Reviews/Appointment/Senior Review.md",
+    "Projects/Mindglow/Feature Reviews/Appointment",
+    "Projects/Mindglow/Feature Reviews",
+    "Projects",
+    "Projects/Mindglow",
+    "Software_Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
+    "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
+    "README.md",
+    "Software_Engineering/report.pdf",
+    "Documentação Completa de Endpoints - Blessing Dental API.md",
+    "Software_Engineering/Clean Architecture/Architecture",
     "solid-illustration.png",
     "Software_Engineering/Unconfirmed 439775.crdownload",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/01 Single Responsibility Principle (SRP).md",
@@ -207,8 +215,6 @@
     "Untitled.canvas",
     "Unconfirmed 456614.crdownload",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
-    "README.md",
-    "Software_Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
     "2025-12-15.md",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/Use case completo - Sistema de Pagamentos.md",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/04 Interface Segregation Principle (ISP).md",
@@ -219,18 +225,13 @@
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.dart.ts",
-    "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.ts",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/03 Liskov Substitution Principle (LSP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/01 Single Responsibility Principle (SRP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/04 Interface Segregation Principle (ISP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
     "().md",
-    "Software Engineering/Clean Architecture",
-    "Software Engineering/Clean Architecture/SOLID Principles/SOLID",
     "2025-11-21.md",
-    "Software Engineering/Clean Architecture/SOLID Principles",
-    "Solid",
     "create a link.md"
   ]
 }
