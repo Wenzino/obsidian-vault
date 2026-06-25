@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b861ca983b515707",
+            "id": "649d02f16c6ae7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
-                "mode": "source",
+                "file": "Projects/Gezi/Documentação da API — Plataforma Gezi.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Architecture - Do Uncle Bob"
+              "title": "Documentação da API — Plataforma Gezi"
             }
           }
         ]
@@ -193,27 +193,31 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "b861ca983b515707",
+  "active": "649d02f16c6ae7c8",
   "lastOpenFiles": [
+    "Products/Zelo/KDZ-ZELO-BE-API-001-v1_0.md",
+    "Projects/Gezi/Documentação da API — Plataforma Gezi.md",
+    "Untitled",
+    "Projects/Gezi",
+    "Projects/Mindglow/Feature Reviews/Appointment/Senior Review.md",
+    "Products/Zelo/ZELO — Documentação Técnica API Backend.md",
+    "Products/Zelo",
+    "Products",
+    "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
     "Software_Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
     "Software_Engineering/Clean Architecture/Architecture/clean-architecture-illustration.jpg",
-    "Projects/Mindglow/Feature Reviews/Appointment/Senior Review.md",
     "Projects/Mindglow/Feature Reviews/Appointment",
     "Projects/Mindglow/Feature Reviews",
     "Projects",
     "Projects/Mindglow",
     "Software_Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
-    "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
     "README.md",
     "Software_Engineering/report.pdf",
     "Documentação Completa de Endpoints - Blessing Dental API.md",
     "Software_Engineering/Clean Architecture/Architecture",
     "solid-illustration.png",
-    "Software_Engineering/Unconfirmed 439775.crdownload",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/01 Single Responsibility Principle (SRP).md",
-    "Untitled.base",
     "Untitled.canvas",
-    "Unconfirmed 456614.crdownload",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "2025-12-15.md",
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/Use case completo - Sistema de Pagamentos.md",
@@ -224,14 +228,12 @@
     "Software_Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/05 Dependency Inversion Principle (DIP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/02 Open-Closed Principle (OCP).md",
-    "Software Engineering/Clean Architecture/SOLID Principles/SOLID/notification_sender.dart.ts",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/03 Liskov Substitution Principle (LSP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/01 Single Responsibility Principle (SRP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/04 Interface Segregation Principle (ISP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
     "().md",
-    "2025-11-21.md",
-    "create a link.md"
+    "2025-11-21.md"
   ]
 }
