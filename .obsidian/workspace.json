@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Payments_API_Gateway/E2Payments_docs/Guia de Integração — E2Payments (Explicador Inc.).md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia de Integração — E2Payments (Explicador Inc.)"
+              "title": "README"
+            }
+          },
+          {
+            "id": "8181db8ea6ff1be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,24 +200,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "bases:Create new base": false,
-      "vscode-editor:Create Code File": false
+      "bases:Create new base": false
     }
   },
-  "active": "b214452d0fb996e7",
+  "active": "8181db8ea6ff1be5",
   "lastOpenFiles": [
+    "Languages/Golang.md",
+    "README.md",
+    "Languages",
+    "Payments_API_Gateway/E2Payments_docs/Guia de Integração — E2Payments (Explicador Inc.).md",
     "Projects/Gezi/Documentação da API — Plataforma Gezi.md",
     "Projects/Gezi",
     "Payments_API_Gateway/E2Payments_docs/E2Payments_Guia_Integracao.md",
-    "Payments_API_Gateway/E2Payments_docs/Guia de Integração — E2Payments (Explicador Inc.).md",
     "Software_Engineering/Clean Architecture/Architecture/Clean Architecture - Do Uncle Bob.md",
-    "Untitled",
     "Payments_API_Gateway/E2Payments_docs",
     "Payments_API_Gateway",
     "Software_Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
@@ -211,7 +230,6 @@
     "Projects",
     "Projects/Mindglow",
     "Software_Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
-    "README.md",
     "Software_Engineering/report.pdf",
     "Documentação Completa de Endpoints - Blessing Dental API.md",
     "Software_Engineering/Clean Architecture/Architecture",
@@ -233,7 +251,6 @@
     "Software Engineering/Clean Architecture/SOLID Principles/Princípios SOLID explicados com use cases.md",
     "Software Engineering/Clean Architecture/SOLID Principles/SOLID/04 Interface Segregation Principle (ISP).md",
     "Software Engineering/Clean Architecture/SOLID Principles/Revisão de conceitos fundamentais de OOP.md",
-    "().md",
-    "2025-11-21.md"
+    "().md"
   ]
 }

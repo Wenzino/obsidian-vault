@@ -1,5 +1,10 @@
 {
   "accentColor": "#b4ff00",
   "baseFontSize": 18,
-  "interfaceFontFamily": "Space Mono"
+  "interfaceFontFamily": "SF Pro Display",
+  "showRibbon": true,
+  "cssTheme": "Ayu Dark",
+  "monospaceFontFamily": "SF Pro Display",
+  "textFontFamily": "SF Pro Display",
+  "showViewHeader": true
 }
