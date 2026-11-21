@@ -4,7 +4,7 @@
   "interfaceFontFamily": "SF Pro Display",
   "showRibbon": true,
   "cssTheme": "Ayu Dark",
-  "monospaceFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "Fira Code,SF Pro Display",
   "textFontFamily": "SF Pro Display",
   "showViewHeader": true
 }
