@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/home/wenzino/README.md",
-                "mode": "source",
+                "file": "Languages/Golang/Golang Roadmap/10 - Fases/Fase 01 - Fundamentos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Fase 01 - Fundamentos"
             }
           }
         ],
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.9921875
+    "width": 413.44140625
   },
   "right": {
     "id": "883c48f926863be8",
@@ -212,6 +212,10 @@
   },
   "active": "d04e076f1d726d9b",
   "lastOpenFiles": [
+    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 00 - Setup e Mentalidade.md",
+    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 12 - Observabilidade, Segurança e DevOps.md",
+    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 14 - Capstone.md",
+    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 01 - Fundamentos.md",
     "Languages/Golang/Golang Roadmap/30 - Cheatsheets/SOLID em Go.md",
     "Languages/Golang/Golang Roadmap/30 - Cheatsheets/Clean Architecture em Go.md",
     "Languages/Golang/Golang Roadmap/90 - Templates/Template - Nota de Aula.md",
@@ -221,11 +225,9 @@
     "Languages/Golang/Golang Roadmap/20 - Recursos/Repositórios de Referência.md",
     "Languages/Golang/Golang Roadmap/20 - Recursos/Livros e Documentação.md",
     "Languages/Golang/Golang Roadmap/20 - Recursos/Ferramentas e Libs.md",
-    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 00 - Setup e Mentalidade.md",
     "Languages/Golang/Golang Roadmap/10 - Fases/Fase 04 - HTTP e Stdlib.md",
     "Languages/Golang/Golang Roadmap/10 - Fases/Fase 03 - Concorrência.md",
     "Languages/Golang/Golang Roadmap/10 - Fases/Fase 02 - Intermédio.md",
-    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 01 - Fundamentos.md",
     "Languages/Golang/Golang Roadmap/50 - Notas/Weekly/README.md",
     "Languages/Golang/Golang Roadmap/50 - Notas/Exercícios/README.md",
     "Languages/Golang/Golang Roadmap/50 - Notas/Daily/README.md",
@@ -240,8 +242,6 @@
     "Languages/Golang/Golang Roadmap/50 - Notas/Exercícios",
     "Languages/Golang/Golang Roadmap/50 - Notas/Daily",
     "Languages/Golang/Golang Roadmap/50 - Notas/Aulas",
-    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 14 - Capstone.md",
-    "Languages/Golang/Golang Roadmap/10 - Fases/Fase 13 - Performance e Avançado.md",
     "Languages/Golang/Golang Roadmap/90 - Templates",
     "Languages/Golang/Golang Roadmap/60 - Projectos",
     "Languages/Golang/Golang Roadmap/50 - Notas",

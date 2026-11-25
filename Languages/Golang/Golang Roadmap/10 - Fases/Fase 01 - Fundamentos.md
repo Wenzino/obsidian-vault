@@ -13,12 +13,12 @@ semanas: 3
 > Dominar a sintaxe e o modelo de memória básico. Referência principal: **A Tour of Go** (go.dev/tour) + **Go by Example** (gobyexample.com).
 
 ## M1.1 — Tipos, variáveis e controlo de fluxo
-- [ ] `var`, `:=`, constantes, `iota`
-- [ ] Tipos: `int*`, `uint*`, `float64`, `bool`, `string`, `byte`, `rune`
-- [ ] **Zero values** (porque Go não tem `undefined`)
-- [ ] `for` (único loop), `range`, `break/continue`, labels
-- [ ] `if` com statement de inicialização, `switch` (sem `break`), type switch
-- [ ] `fmt`: `Printf`, `Sprintf`, `Errorf`, verbos `%v %+v %#v %T %q`
+- [x] `var`, `:=`, constantes, `iota`
+- [x] Tipos: `int*`, `uint*`, `float64`, `bool`, `string`, `byte`, `rune`
+- [x] **Zero values** (porque Go não tem `undefined`)
+- [x] `for` (único loop), `range`, `break/continue`, labels
+- [x] `if` com statement de inicialização, `switch` (sem `break`), type switch
+- [x] `fmt`: `Printf`, `Sprintf`, `Errorf`, verbos `%v %+v %#v %T %q`
 
 ## M1.2 — Funções
 - [ ] Múltiplos retornos e *named returns*
